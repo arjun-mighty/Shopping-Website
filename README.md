@@ -1,2 +1,4 @@
 # Shopping-Website
-Static website 
+Online shopping site
+built using html and Css.
+
